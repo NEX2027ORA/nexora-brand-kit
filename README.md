@@ -23,7 +23,7 @@ Shadi: Brand Identity & Visual Manager
 - [x] Tone and Vibe documented
 - [x] Logo drafts and final icon
 - [x] Colors and fonts documented
-- [ ] Name approved by team
+- [x] Name approved by team
 - [ ] Brand Kit delivered to Rudain
-- [ ] Profile assets ready
+- [x] Profile assets ready
 - [ ] Reels cover templates ready
