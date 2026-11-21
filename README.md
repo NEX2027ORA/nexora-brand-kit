@@ -19,10 +19,11 @@ Shadi: Brand Identity & Visual Manager
 - 07_Moodboard_and_References
 
 ## Status
-- [ ] Name approved
-- [ ] Tone and Vibe documented
-- [ ] Logo final
-- [ ] Colors and fonts final
-- [ ] Brand Kit delivered to Redin
+- [x] Name proposed
+- [x] Tone and Vibe documented
+- [x] Logo drafts and final icon
+- [x] Colors and fonts documented
+- [ ] Name approved by team
+- [ ] Brand Kit delivered to Rudain
 - [ ] Profile assets ready
 - [ ] Reels cover templates ready
