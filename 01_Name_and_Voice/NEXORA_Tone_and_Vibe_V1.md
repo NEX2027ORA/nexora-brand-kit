@@ -1,33 +1,36 @@
-# NEXORA: Tone and Vibe (V1)
+# NEXORA: النبرة والأسلوب (الإصدار 1)
 
-## Brand personality
-- Präzise (precise): clear information, real examples, numbers.
-- Zukunftsorientiert (future-oriented): automation, AI, modern solutions.
-- Vertrauenswürdig (trustworthy): no exaggerated promises.
-- Nahbar (approachable): explain technology simply.
+## شخصية العلامة
+- **دقيقة (Präzise):** معلومات واضحة وأمثلة حقيقية وأرقام.
+- **تستشرف المستقبل (Zukunftsorientiert):** الأتمتة والذكاء الاصطناعي والحلول الحديثة.
+- **جديرة بالثقة (Vertrauenswürdig):** بلا وعود مبالغ فيها.
+- **قريبة من الناس (Nahbar):** نشرح التقنية ببساطة.
 
-## Audience
-German-speaking audience first (Germany). Values accuracy, clarity,
-reliability and data privacy (DSGVO).
+## الجمهور
+الجمهور الناطق بالألمانية أولاً (ألمانيا). يقدّر الدقة والوضوح والموثوقية
+وحماية البيانات (DSGVO، أي اللائحة الأوروبية لحماية البيانات).
 
-## Language
-- Main language: German (Hochdeutsch), simple and correct.
-- Address form: OPEN DECISION (du or Sie), to be agreed with Basil.
-  - du: modern, suits Instagram.
-  - Sie: more formal, suits traditional companies (Mittelstand).
-- Avoid: exaggeration, unnecessary English words, long sentences.
+## اللغة
+- اللغة الأساسية للمحتوى العام: الألمانية الفصحى (Hochdeutsch)، بسيطة وسليمة.
+- صيغة المخاطبة: **قرار مفتوح** (du أم Sie)، يُتفق عليه مع باسل.
+  - du: عصرية وتناسب إنستغرام.
+  - Sie: رسمية أكثر وتناسب الشركات التقليدية (Mittelstand).
+- نتجنب: المبالغة، والكلمات الإنجليزية غير الضرورية، والجمل الطويلة.
 
-## Tagline options
+## خيارات الشعار النصي (بالألمانية)
 1. Digitale Lösungen, die für dich arbeiten.
+   (المعنى: حلول رقمية تعمل من أجلك)
 2. Technik. Automatisiert. Durchdacht.
+   (المعنى: تقنية. أتمتة. تفكير مدروس)
 3. Dein Partner für digitale Lösungen.
+   (المعنى: شريكك في الحلول الرقمية)
 
-## Do
-- Explain one idea per Reel.
-- Use concrete examples and results.
-- Keep text short and readable on mobile.
+## افعل
+- اشرح فكرة واحدة في كل ريل.
+- استخدم أمثلة ونتائج ملموسة.
+- اجعل النص قصيراً ومقروءاً على الجوال.
 
-## Don't
-- Make promises we cannot keep.
-- Use slang that does not fit a technology company.
-- Copy other brands' style or content.
+## لا تفعل
+- لا تقدّم وعوداً لا نستطيع الوفاء بها.
+- لا تستخدم عامية لا تناسب شركة تقنية.
+- لا تنسخ أسلوب علامات أخرى أو محتواها.
