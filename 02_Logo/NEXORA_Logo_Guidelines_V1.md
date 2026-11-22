@@ -1,38 +1,38 @@
-# NEXORA: Logo Guidelines (V1)
+# NEXORA: إرشادات الشعار (الإصدار 1)
 
-## Primary logo
-The Network X icon: two crossing lines with a node at each end and a
-node at the center. The icon alone is the primary logo.
+## الشعار الأساسي
+أيقونة Network X: خطان متقاطعان بعقدة (نقطة) عند كل طرف وعقدة في المنتصف.
+الأيقونة وحدها هي الشعار الأساسي.
 
-## Versions
-| File | Use |
+## النسخ المتوفرة
+| الملف | الاستخدام |
 |---|---|
-| NEXORA_Icon_Color | Default, on Deep Navy (#0B1220) backgrounds |
-| NEXORA_Icon_White | On dark videos and photos (watermark) |
-| NEXORA_Icon_Navy | On light backgrounds (#F4F7FB or white) |
-| NEXORA_Icon_Cyan | Accent use, single-color designs |
-| NEXORA_Icon_Blue | Light backgrounds only (low contrast on navy) |
-| NEXORA_Logo_Horizontal_* | Icon + NEXORA wordmark (intro/outro, website) |
+| NEXORA_Icon_Color | النسخة الافتراضية، على خلفيات Midnight Navy (`#0B1120`) |
+| NEXORA_Icon_White | على الفيديوهات والصور الداكنة (علامة مائية) |
+| NEXORA_Icon_Navy | على الخلفيات الفاتحة (`#F4F6FC` أو الأبيض) |
+| NEXORA_Icon_Cyan | للتمييز، وللتصاميم أحادية اللون |
+| NEXORA_Icon_Blue | على الخلفيات الفاتحة فقط (تباينها ضعيف على الكحلي) |
+| NEXORA_Logo_Horizontal_* | الأيقونة مع كلمة NEXORA (المقدمة والخاتمة والموقع) |
 
-## Clear space
-Keep empty space around the icon equal to the diameter of one end node.
+## المساحة الفارغة
+اترك حول الأيقونة مساحة فارغة تساوي قطر إحدى العقد الطرفية.
 
-## Minimum size
-- Icon: 48 px wide on screen.
-- Horizontal logo: 160 px wide on screen.
+## الحد الأدنى للحجم
+- الأيقونة: عرض 48 بكسل على الشاشة.
+- الشعار الأفقي: عرض 160 بكسل على الشاشة.
 
-## Placement in Reels
-- Watermark: top-right corner, about 10 to 12% of video width,
-  80% opacity, always the white version.
-- Keep it inside the Instagram safe zone (not under the interface).
+## الموضع في الريلز
+- العلامة المائية: الزاوية العلوية اليمنى، بعرض 10 إلى 12% من عرض الفيديو،
+  وشفافية 80%، وتكون دائماً النسخة البيضاء.
+- تبقى داخل المنطقة الآمنة في إنستغرام (لا تتداخل مع عناصر الواجهة).
 
-## Do not
-- Stretch, rotate or skew the logo.
-- Change the colors outside the palette.
-- Add shadows, gradients or outlines.
-- Place it on busy backgrounds without enough contrast.
-- Redraw the icon: always use the original files.
+## ممنوع
+- مطّ الشعار أو تدويره أو إمالته.
+- تغيير الألوان خارج لوحة الألوان المعتمدة.
+- إضافة ظلال أو تدرجات أو حدود.
+- وضعه على خلفيات مزدحمة بلا تباين كافٍ.
+- إعادة رسم الأيقونة: استخدم دائماً الملفات الأصلية.
 
-## Files
-- Final files: /02_Logo/Final
-- Drafts: /02_Logo/Drafts
+## مواقع الملفات
+- الملفات النهائية: `/02_Logo/Final`
+- المسودات: `/02_Logo/Drafts`
