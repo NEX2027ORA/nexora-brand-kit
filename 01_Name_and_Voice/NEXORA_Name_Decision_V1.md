@@ -1,24 +1,25 @@
-# NEXORA: Name Decision (V1)
+# NEXORA: قرار الاسم (الإصدار 1)
 
-## Chosen name
+## الاسم المختار
 NEXORA
 
-## Why this name
-- Short and easy to pronounce in German and English.
-- Evokes connection (Nexus), networks and the future.
-- Suits IT solutions, automation, software and e-commerce.
-- The letter X can become a strong logo symbol.
+## لماذا هذا الاسم
+- قصير وسهل النطق بالألمانية والإنجليزية.
+- يوحي بالترابط (Nexus) والشبكات والمستقبل.
+- يناسب الحلول التقنية والأتمتة والبرمجيات والتجارة الإلكترونية.
+- يمكن تحويل حرف X إلى رمز قوي للشعار.
 
-## Checks before final approval
-- [ ] Instagram handle available (options: nexora.tech, nexora.digital, getnexora, nexora.de)
-- [ ] Domain available (nexora.de / nexora.tech)
-- [ ] Trademark search done (DPMA and EUIPO/TMview)
-- [ ] No negative meaning in German or other target languages
-- [ ] Team approval from Basil and Redin
+## فحوصات مطلوبة قبل الاعتماد النهائي
+- [ ] توفّر اسم الحساب على إنستغرام (الخيارات: nexora.tech أو nexora.digital أو getnexora أو nexora.de)
+- [ ] توفّر النطاق (nexora.de أو nexora.tech)
+- [ ] إجراء بحث العلامة التجارية (DPMA وEUIPO/TMview)
+- [ ] التأكد من عدم وجود معنى سلبي في الألمانية أو أي لغة مستهدفة أخرى
+- [ ] موافقة الفريق: باسل وردين
 
-## Account display name (proposal)
+## اسم العرض المقترح للحساب (بالألمانية لأنه موجّه للجمهور)
 NEXORA | IT-Lösungen & Automatisierung
+(المعنى: NEXORA | حلول تقنية وأتمتة)
 
-## Decision log
-- Date: 2026-11-20
-- Status: Proposed, awaiting checks and team approval
+## سجل القرار
+- التاريخ: 2026-11-20
+- الحالة: مقترح، بانتظار الفحوصات وموافقة الفريق
