@@ -1,15 +1,15 @@
-# NEXORA: Logo Decision (V1)
+# NEXORA: قرار الشعار (الإصدار 1)
 
-## Decision
-The Network X icon is the primary logo (icon-only), approved on
-2026-11-21. A horizontal version (icon + NEXORA wordmark) is used
-for intros, outros and the website.
+## القرار
+أيقونة Network X (الشبكة على شكل X) هي الشعار الأساسي (أيقونة فقط)،
+وقد اعتُمدت بتاريخ 2026-11-21. وتُستخدم نسخة أفقية (الأيقونة مع كلمة NEXORA)
+في مقدمات الفيديوهات وخواتيمها وفي الموقع الإلكتروني.
 
-## Reason
-- Simple and geometric, readable at small sizes.
-- The X evokes connection, networks and automation.
-- Works as a profile picture and as a video watermark.
+## الأسباب
+- بسيطة وهندسية وواضحة حتى بالأحجام الصغيرة.
+- حرف X يوحي بالترابط والشبكات والأتمتة.
+- تصلح صورةً شخصية للحساب وعلامة مائية على الفيديو.
 
-## Status
-- [ ] Approved by Basil
-- [ ] Approved by Redin
+## الحالة
+- [ ] موافقة باسل
+- [ ] موافقة ردين
