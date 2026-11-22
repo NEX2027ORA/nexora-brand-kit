@@ -1,57 +1,57 @@
-# NEXORA: Color Palette (V2)
+# NEXORA: لوحة الألوان (الإصدار 2)
 
-## Official Brand Colors — Currently Used
+## ألوان العلامة الرسمية (المستخدمة حالياً)
 
-| Role | Name | HEX | RGB |
+| الدور | الاسم | HEX | RGB |
 |---|---|---|---|
-| Primary Background | Midnight Navy | `#0B1120` | 11, 17, 32 |
-| Secondary Background | Deep Navy Blue | `#142B4D` | 20, 43, 77 |
-| Blue | Royal Blue | `#1D4ED8` | 29, 78, 216 |
-| Blue | Bright Blue | `#3B82F6` | 59, 130, 246 |
-| Light Background | Ice Blue | `#BFDBFE` | 191, 219, 254 |
-| Logo Color (Dark) | Dark Navy | `#0B1220` | 11, 18, 32 |
-| Logo Color (Light) | Soft White | `#F4F6FC` | 244, 246, 252 |
-| Logo Gradient | Mint | `#C0EFE1` | 192, 239, 225 |
-| Logo Gradient | Ice Blue | `#B0DBEC` | 176, 219, 236 |
-| Logo Gradient | Mint Cyan | `#BCEAE4` | 188, 234, 228 |
-| Logo Shadow | Shadow Gray | `#444952` | 68, 73, 82 |
-| Logo Background | Near-Black Navy | `#040D1C` | 4, 13, 28 |
+| الخلفية الأساسية | Midnight Navy | `#0B1120` | 11, 17, 32 |
+| الخلفية الثانوية | Deep Navy Blue | `#142B4D` | 20, 43, 77 |
+| أزرق | Royal Blue | `#1D4ED8` | 29, 78, 216 |
+| أزرق | Bright Blue | `#3B82F6` | 59, 130, 246 |
+| خلفية فاتحة | Ice Blue | `#BFDBFE` | 191, 219, 254 |
+| لون الشعار (داكن) | Dark Navy | `#0B1220` | 11, 18, 32 |
+| لون الشعار (فاتح) | Soft White | `#F4F6FC` | 244, 246, 252 |
+| تدرج الشعار | Mint | `#C0EFE1` | 192, 239, 225 |
+| تدرج الشعار | Logo Ice Blue | `#B0DBEC` | 176, 219, 236 |
+| تدرج الشعار | Logo Mint Cyan | `#BCEAE4` | 188, 234, 228 |
+| ظل الشعار | Shadow Gray | `#444952` | 68, 73, 82 |
+| خلفية الشعار | Near-Black Navy | `#040D1C` | 4, 13, 28 |
 
-## Suggested Colors (Proposed – Not Yet Used)
+## ألوان مقترحة (غير مستخدمة بعد)
 
-| Role | Name | HEX | RGB |
+| الدور | الاسم | HEX | RGB |
 |---|---|---|---|
-| Accent | Electric Blue | `#2F6BFF` | 47, 107, 255 |
-| Accent | Mint Cyan | `#19D3C5` | 25, 211, 197 |
-| Light | Off-White | `#F4F7FB` | 244, 247, 251 |
-| Neutral Text | Slate | `#8A97AB` | 138, 151, 171 |
+| لون تمييز | Electric Blue | `#2F6BFF` | 47, 107, 255 |
+| لون تمييز | Mint Cyan | `#19D3C5` | 25, 211, 197 |
+| فاتح | Off-White | `#F4F7FB` | 244, 247, 251 |
+| نص محايد | Slate | `#8A97AB` | 138, 151, 171 |
 
-These colors are suggestions only and are not part of the currently established palette.
+هذه الألوان مجرد اقتراحات، وليست جزءاً من اللوحة المعتمدة حالياً.
 
-## Usage Ratio
+## نسبة الاستخدام
 
-- 60% — Background colors: Midnight Navy, Deep Navy Blue, Ice Blue.
-- 30% — Blue elements: Royal Blue and Bright Blue.
-- 10% — Logo gradient colors or subtle highlights: Mint, Ice Blue and Mint Cyan.
+- 60%: ألوان الخلفيات (Midnight Navy وDeep Navy Blue وIce Blue).
+- 30%: العناصر الزرقاء (Royal Blue وBright Blue).
+- 10%: ألوان تدرج الشعار أو لمسات خفيفة (Mint وLogo Ice Blue وLogo Mint Cyan).
 
-The ratio is a flexible guideline, not a strict rule. Background and text contrast must remain clear and consistent.
+النسبة إرشاد مرن وليست قاعدة صارمة. المهم أن يبقى التباين بين الخلفية والنص واضحاً ومتسقاً.
 
-## Text Rules
+## قواعد النص
 
-- Main text on dark backgrounds: Soft White (`#F4F6FC`).
-- Main text on light backgrounds: Midnight Navy (`#0B1120`).
-- Secondary text: use a readable neutral shade with sufficient contrast.
-- Accent colors: use the existing blue and mint shades for emphasis, highlights, key words and numbers.
-- Dark logo: use Dark Navy on light backgrounds.
-- Light logo: use Soft White on dark backgrounds.
-- Gradient logo: use the approved Mint and Ice Blue tones.
-- Avoid small Bright Blue text on dark backgrounds when contrast is insufficient.
-- Keep designs clean, readable and consistent across all platforms.
+- النص الرئيسي على الخلفيات الداكنة: Soft White (`#F4F6FC`).
+- النص الرئيسي على الخلفيات الفاتحة: Midnight Navy (`#0B1120`).
+- النص الثانوي: درجة محايدة مقروءة وبتباين كافٍ.
+- ألوان التمييز: الأزرق والنعناعي الحاليان للتأكيد والكلمات المفتاحية والأرقام.
+- الشعار الداكن: Dark Navy على الخلفيات الفاتحة.
+- الشعار الفاتح: Soft White على الخلفيات الداكنة.
+- الشعار المتدرج: بدرجات Mint وIce Blue المعتمدة.
+- تجنّب النص الصغير بلون Bright Blue على الخلفيات الداكنة إذا كان التباين غير كافٍ.
+- اجعل التصاميم نظيفة ومقروءة ومتسقة على كل المنصات.
 
-## To Verify
+## للتحقق لاحقاً
 
-- [ ] Contrast check for each text/background combination (WebAIM Contrast Checker).
-- [ ] Test all colors on mobile screens, especially Instagram Reel covers.
-- [ ] Verify readability in both dark and light backgrounds.
-- [ ] Confirm consistent use of logo colors and gradient.
-- [ ] Team approval from Basil and Redin.
+- [ ] فحص التباين لكل تركيبة نص وخلفية (أداة WebAIM Contrast Checker).
+- [ ] تجربة كل الألوان على شاشات الجوال، خاصة أغلفة الريلز في إنستغرام.
+- [ ] التأكد من وضوح القراءة على الخلفيات الداكنة والفاتحة.
+- [ ] التأكد من ثبات استخدام ألوان الشعار والتدرج.
+- [ ] موافقة الفريق: باسل وردين.
