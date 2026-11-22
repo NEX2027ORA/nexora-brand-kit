@@ -1,45 +1,43 @@
-# NEXORA: Typography (V2)
+# NEXORA: الخطوط (الإصدار 2)
 
-## Font System
+## نظام الخطوط
 
-| Use | Font | Weights | Source |
+| الاستخدام | الخط | الأوزان | المصدر |
 |---|---|---|---|
-| Logo | Black Kiyrand | Regular / Default | Current logo font |
-| Headlines | Space Grotesk | Bold, SemiBold | Google Fonts |
-| Body Text | Inter | Regular, Medium, SemiBold | Google Fonts |
+| الشعار | Black Kiyrand | Regular / الافتراضي | خط الشعار الحالي |
+| العناوين | Space Grotesk | Bold وSemiBold | Google Fonts |
+| النص الأساسي | Inter | Regular وMedium وSemiBold | Google Fonts |
 
-## Brand Typography
+## طباعة العلامة
 
-- **Black Kiyrand:** Exclusive use for the NEXORA logo and brand wordmark. Creates a distinctive, bold and recognizable identity.
-- **Space Grotesk:** Used for headlines, titles and short emphasis text. Provides a modern, technical and clean appearance.
-- **Inter:** Used for body text, explanations, captions, subtitles and informational content. Ensures readability across digital platforms.
+- **Black Kiyrand:** يُستخدم حصرياً لشعار NEXORA وكلمة العلامة. يمنح هوية مميزة وجريئة.
+- **Space Grotesk:** للعناوين والتسميات والنصوص القصيرة المؤكَّدة. يعطي مظهراً حديثاً وتقنياً ونظيفاً.
+- **Inter:** للنص الأساسي والشروحات والتعليقات والعناوين الفرعية والمحتوى المعلوماتي. يضمن وضوح القراءة على المنصات الرقمية.
 
-## License
+## التراخيص
 
-- Black Kiyrand: Verify the font license before commercial use.
-- Space Grotesk and Inter: SIL Open Font License (OFL), free for commercial use.
-- License files should be kept with the font files when applicable.
+- Black Kiyrand: تحقّق من الترخيص قبل أي استخدام تجاري.
+- Space Grotesk وInter: ترخيص SIL Open Font License (OFL)، ومجانيان للاستخدام التجاري.
+- تُحفظ ملفات التراخيص مع ملفات الخطوط عند توفرها.
 
-## German Characters
+## الأحرف الألمانية
 
-All fonts used in the brand system should be tested for German character support:
+يجب اختبار دعم كل خطوط العلامة للأحرف الألمانية: ä ö ü ß Ä Ö Ü
 
-ä ö ü ß Ä Ö Ü
+سطر الاختبار: Größe, Lösung, Straße, Prüfung, Ärger.
 
-Test line: Größe, Lösung, Straße, Prüfung, Ärger.
+## القواعد
 
-## Rules
+- الشعار: Black Kiyrand لكلمة NEXORA فقط.
+- العناوين: Space Grotesk بوزن Bold أو SemiBold، قصيرة وواضحة (3 أسطر كحد أقصى).
+- النص الأساسي: Inter بوزن Regular أو Medium لأفضل قراءة.
+- خطان كحد أقصى في كل غلاف أو ريل أو فيديو.
+- لا يُستخدم Black Kiyrand للفقرات أو النصوص الطويلة.
+- حافظ على ثبات أحجام الخطوط والمسافات والتسلسل في كل التصاميم.
+- ثبّت كل الخطوط المطلوبة على جهاز التحرير قبل فتح المشاريع.
 
-- Logo: Black Kiyrand, used exclusively for the NEXORA wordmark.
-- Headlines: Space Grotesk Bold or SemiBold, short and clear (maximum 3 lines).
-- Body text: Inter Regular or Medium for optimal readability.
-- Use a maximum of 2 fonts per cover, Reel or video.
-- Black Kiyrand should not be used for paragraphs or long text.
-- Maintain consistent font sizes, spacing and hierarchy across all designs.
-- Install all required fonts on the editing computer before opening projects.
+## الخطوط البديلة
 
-## Fallback
-
-- Headlines: Montserrat Bold.
-- Body text: Arial Regular or Medium.
-- Logo: Keep the original NEXORA logo exported as a vector or high-resolution image to avoid font replacement issues.
+- العناوين: Montserrat Bold.
+- النص الأساسي: Arial Regular أو Medium.
+- الشعار: احتفظ بنسخة الشعار الأصلية مُصدَّرة كمتجه (Vector) أو بدقة عالية لتفادي استبدال الخط.
