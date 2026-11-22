@@ -1,67 +1,69 @@
-Space Grotesk Variable Font
-===========================
+خط Space Grotesk المتغيّر (Space Grotesk Variable Font)
+=======================================================
 
-This download contains Space Grotesk as both a variable font and static fonts.
+يحتوي هذا التنزيل على خط Space Grotesk بنسختين: متغيّرة (Variable) وثابتة (Static).
 
-Space Grotesk is a variable font with this axis:
-  wght
+Space Grotesk خط متغيّر له محور واحد:
+  wght (السماكة)
 
-This means all the styles are contained in a single file:
+أي أن كل الأنماط موجودة في ملف واحد:
   Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf
 
-If your app fully supports variable fonts, you can now pick intermediate styles
-that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Space Grotesk:
+إذا كان برنامجك يدعم الخطوط المتغيّرة بالكامل، يمكنك اختيار سماكات وسيطة
+غير متوفرة في الخطوط الثابتة. لكن بعض البرامج لا تدعمها، وفي هذه الحالة
+استخدم الملفات الثابتة لخط Space Grotesk:
   Space_Grotesk/static/SpaceGrotesk-Light.ttf
   Space_Grotesk/static/SpaceGrotesk-Regular.ttf
   Space_Grotesk/static/SpaceGrotesk-Medium.ttf
   Space_Grotesk/static/SpaceGrotesk-SemiBold.ttf
   Space_Grotesk/static/SpaceGrotesk-Bold.ttf
 
-Get started
------------
+ملاحظة لفريق NEXORA: السماكتان المعتمدتان للعناوين هما
+Bold وSemiBold (انظر NEXORA_Fonts_V1.md).
 
-1. Install the font files you want to use
+البدء
+-----
 
-2. Use your app's font picker to view the font family and all the
-available styles
+1. ثبّت ملفات الخط التي تريد استخدامها.
 
-Learn more about variable fonts
--------------------------------
+2. من قائمة الخطوط في برنامجك، اعرض عائلة الخط وكل الأنماط المتاحة.
+
+للمزيد عن الخطوط المتغيّرة (روابط بالإنجليزية)
+-----------------------------------------------
 
   https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts
   https://variablefonts.typenetwork.com
   https://medium.com/variable-fonts
 
-In desktop apps
+في برامج سطح المكتب
 
   https://theblog.adobe.com/can-variable-fonts-illustrator-cc
   https://helpx.adobe.com/nz/photoshop/using/fonts.html#variable_fonts
 
-Online
+على الإنترنت
 
   https://developers.google.com/fonts/docs/getting_started
   https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
   https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts
 
-Installing fonts
+تثبيت الخطوط
 
-  MacOS: https://support.apple.com/en-us/HT201749
+  macOS: https://support.apple.com/en-us/HT201749
   Linux: https://www.google.com/search?q=how+to+install+a+font+on+gnu%2Blinux
   Windows: https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows
 
-Android Apps
+تطبيقات أندرويد
 
   https://developers.google.com/fonts/docs/android
   https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
 
-License
+الترخيص
 -------
-Please read the full license text (OFL.txt) to understand the permissions,
-restrictions and requirements for usage, redistribution, and modification.
+اقرأ نص الترخيص الكامل (OFL.txt) لمعرفة الصلاحيات والقيود والمتطلبات
+المتعلقة بالاستخدام وإعادة التوزيع والتعديل.
 
-You can use them in your products & projects – print or digital,
-commercial or otherwise.
+يمكنك استخدام الخط في منتجاتك ومشاريعك، المطبوعة أو الرقمية،
+التجارية وغيرها.
 
-This isn't legal advice, please consider consulting a lawyer and see the full
-license for all details.
+هذا ليس استشارة قانونية. يُنصح بمراجعة محامٍ وقراءة الترخيص الكامل
+لمعرفة كل التفاصيل.
