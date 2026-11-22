@@ -1,29 +1,35 @@
-# NEXORA Brand Kit
+# حزمة هوية NEXORA
 
-Brand identity package for NEXORA (IT solutions, consulting, automation,
-software development, e-commerce and digital solutions).
+حزمة الهوية البصرية لشركة NEXORA، وهي شركة حلول تقنية تعمل في الاستشارات
+والأتمتة وتطوير البرمجيات والتجارة الإلكترونية والحلول الرقمية.
 
-**Target audience:** Germany (first phase), then expansion.
-**Current platform:** Instagram Reels (1 account). TikTok later.
+**الجمهور المستهدف:** ألمانيا (المرحلة الأولى)، ثم التوسع لاحقاً.
+**المنصة الحالية:** ريلز إنستغرام (حساب واحد)، وتيك توك لاحقاً.
 
-## Owner
-Shadi: Brand Identity & Visual Manager
+## الفريق
+- شادي: مسؤول الهوية البصرية
+- باسل
+- ردين
 
-## Folder structure
-- 01_Name_and_Voice
-- 02_Logo
-- 03_Colors
-- 04_Fonts
-- 05_Profile_Assets
-- 06_Reels_Covers
-- 07_Moodboard_and_References
+## هيكل المجلدات
+- `01_Name_and_Voice`: الاسم ونبرة العلامة
+- `02_Logo`: الشعار
+- `03_Colors`: الألوان
+- `04_Fonts`: الخطوط
+- `05_Profile_Assets`: أصول الملف الشخصي
+- `06_Reels_Covers`: أغلفة الريلز
+- `07_Moodboard_and_References`: لوحة الإلهام والمراجع
 
-## Status
-- [x] Name proposed
-- [x] Tone and Vibe documented
-- [x] Logo drafts and final icon
-- [x] Colors and fonts documented
-- [x] Name approved by team
-- [ ] Brand Kit delivered to Rudain
-- [x] Profile assets ready
-- [ ] Reels cover templates ready
+## الحالة
+- [x] اقتراح الاسم
+- [x] توثيق النبرة والأسلوب
+- [x] مسودات الشعار والأيقونة النهائية
+- [x] توثيق الألوان والخطوط
+- [ ] موافقة الفريق على الاسم (بانتظار فحوصات النطاق والعلامة التجارية وحساب إنستغرام)
+- [ ] تسليم حزمة الهوية إلى ردين
+- [ ] أصول الملف الشخصي جاهزة (الملفات موجودة لكنها تحتاج إعادة تسمية ونقل)
+- [ ] قوالب أغلفة الريلز جاهزة
+
+## ملاحظة عن اللغة
+الوثائق الداخلية للفريق مكتوبة بالعربية. أما المحتوى الموجّه للجمهور
+الألماني (الشعارات النصية ونصوص الريلز واسم الحساب) فيبقى بالألمانية.
